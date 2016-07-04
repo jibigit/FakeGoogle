@@ -165,19 +165,21 @@ footer a:hover {
 
 .f_left {
 	float: left;	
-	width: 40%;
-	
+	width: 30%;
+	margin-right: 20%;
 	
 }
 
 .f_right {
-	float: left;
-	width: 40%;
+	float: right;
+	width: 30%;
+
 	
 }
 
 .f_left li {
 	display: inline;
+
 }
 
 .f_right li{
