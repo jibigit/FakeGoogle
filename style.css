@@ -163,3 +163,26 @@ footer a:hover {
 
 }
 
+.f_left {
+	float: left;	
+	width: 40%;
+	
+	
+}
+
+.f_right {
+	float: left;
+	width: 40%;
+	
+}
+
+.f_left li {
+	display: inline;
+}
+
+.f_right li{
+	display: inline;
+}
+
+
+
